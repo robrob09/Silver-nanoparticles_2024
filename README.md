@@ -12,9 +12,9 @@ The method is affordable and cost-effective—it does not require complex equipm
 
 Author: Robert Bitlev
 
-Supervisor: E.A. Smirnov
+Supervisor: E.A. Smirnov, email: smirnov.ea@itmo.ru
 
-Mentor: A.A. Pavlova
+Mentor: A.A. Pavlova, email: pavlova.aa@itmo.ru
 
 ---
 
